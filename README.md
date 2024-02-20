@@ -22,6 +22,8 @@ This is a Human Computer Interaction project that makes use of an Arduino Microc
 
 -Arduino Uno R3 board
 
+Demo Video - https://youtu.be/lts95AxfBhA
+
 -Ultrasound Sensor HC-SR04
 
 ## Instructions
