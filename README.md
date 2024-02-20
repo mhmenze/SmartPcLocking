@@ -17,3 +17,15 @@ This is a Human Computer Interaction project that makes use of an Arduino Microc
 -Python scripts accesses the serial port, and reads the values from the US sensor. Considering the distance reading, and checking if a video is playing or not, the necessary action is carried out by the python script (Locking or Pausing). Further, the python script also tracks time since it was run and sends a popup reminder to rest.\
 
 **This was designed and tested only for Windows OS.
+
+## Requirements:
+
+-Arduino Uno R3 board\
+
+-Ultrasound Sensor HC-SR04
+
+## Instructions
+
+-Upload the .ino file code to the Arduino UNO board.\
+
+-Run the app.py script in your pc while the device is connected via USB,
